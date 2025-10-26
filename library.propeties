@@ -1,0 +1,9 @@
+name=ThunderMatrix
+version=1.1.0
+author=Eliezer Rodriguez
+maintainer=rodriguezeliezer003@gmail.com
+sentence=Muestra íconos en la matriz LED del Arduino UNO R4 WiFi (rayo, corazón y carita feliz).
+paragraph=Librería sencilla para mostrar patrones predefinidos en la matriz integrada del UNO R4 WiFi.
+category=Display
+url=https://github.com/Eliezerrodriguez/ThunderMatrix
+architectures=*
