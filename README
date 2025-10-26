@@ -1,0 +1,20 @@
+# ThunderMatrix ⚡❤️🙂
+
+Librería para el **Arduino UNO R4 WiFi** que muestra íconos en la matriz LED integrada.
+
+## ✨ Íconos disponibles
+- ⚡ `showThunder()` → muestra un rayo  
+- ❤️ `showHeart()` → muestra un corazón  
+- 🙂 `showSmiley()` → muestra una carita feliz  
+
+## 🧩 Ejemplo
+```cpp
+#include <ThunderMatrix.h>
+
+ThunderMatrix thunder;
+
+void setup() {
+  thunder.begin();
+  thunder.showHeart();
+}
+void loop() {}
